@@ -1,4 +1,4 @@
-# project1说明文档
+# project2说明文档
 19302010068 万欣芸
 
 - [GitHub](https://github.com/19302010068/SOFT130002_project2)
