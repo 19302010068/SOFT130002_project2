@@ -1,0 +1,33 @@
+form
+{
+    background-color: aliceblue;
+    border: solid 2px silver;
+    padding: 2rem;
+}
+
+form>*
+{
+    display: block;
+    margin: 0.75rem;
+}
+
+span
+{
+    display: inline-block;
+    width: 20rem;
+    font-weight: bold;
+    margin: 0.25rem 0;
+}
+
+[type="submit"]
+{
+    font-size: 14pt;
+    border-radius: 5px;
+    margin-top: 1.75rem;
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+}
+
+p
+{
+    margin-top: 0.75rem;
+}

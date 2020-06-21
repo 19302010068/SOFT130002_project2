@@ -1,0 +1,14 @@
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET / HTTP/1.1" -
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/ HTTP/1.1" 7576
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/stylesheets/all.css HTTP/1.1" 481698
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/stylesheets/normalize.css HTTP/1.1" 6876
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/javascripts/modernizr.js HTTP/1.1" 51365
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/bitnami-xampp.png HTTP/1.1" 22133
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/xampp-logo.svg HTTP/1.1" 5427
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/fastly-logo.png HTTP/1.1" 1770
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/social-icons.png HTTP/1.1" 3361
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/javascripts/all.js HTTP/1.1" 188385
+[29/May/2020:22:10:10 +0800] 127.0.0.1 TLSv1.3 TLS_AES_256_GCM_SHA384 "GET /dashboard/images/favicon.png HTTP/1.1" 2508
+[29/May/2020:22:12:50 +0800] 127.0.0.1 - - "GET / HTTP/1.0" 980
+[29/May/2020:22:12:50 +0800] 127.0.0.1 - - "GET / HTTP/1.0" 980
+[08/Jun/2020:22:10:13 +0800] ::1 - - "GET / HTTP/1.0" 980

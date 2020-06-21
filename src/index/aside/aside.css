@@ -1,0 +1,15 @@
+
+{
+    float: right;
+    position: fixed;
+    bottom: 10vh;
+    right: 0;
+}
+
+[type="image"], img
+{
+    display: block;
+    background-color: silver;
+    border-radius: 21px;
+    padding: 7px;
+}

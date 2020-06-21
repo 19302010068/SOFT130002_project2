@@ -1,0 +1,1 @@
+<div id="v-msgbox" class="msgbox"><p v-if="message" v-html="message"></p></div>

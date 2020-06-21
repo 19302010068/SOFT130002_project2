@@ -1,0 +1,131 @@
+/* reset browser styles */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+:focus
+{
+    outline: 0;
+}
+/* end reset browser styles */
+
+/* fonts */
+h1, h2, h3
+{
+    font-family: Cambria, "Cambria Math", Constantia, serif;
+}
+
+body
+{
+    font-family: "Lucida Sans Unicode", "Lucida Sans", Arial, sans-serif;
+}
+
+/* global settings */
+body
+{
+    background-color: ghostwhite;
+}
+
+h2
+{
+    font-size: 18pt;
+    margin-bottom: 1rem;
+}
+
+h3
+{
+    font-size: 16pt;
+}
+
+a:link, a:visited
+{
+    color: royalblue;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+a:active
+{
+    background-color: rgba(65,105,225,0.25);
+}
+
+[type="text"], [type="password"], [type="email"], [type="search"]
+{
+    width: 150px;
+}
+
+[type="button"], [type="image"]
+{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+button, [type="button"]
+{
+    cursor: pointer;
+    color: royalblue;
+    background-color: transparent;
+    font-size: 10pt;
+    border-radius: 2px;
+}
+
+[type="button"]:hover
+{
+    text-decoration: underline;
+}
+
+[type="button"]:active
+{
+    background-color: rgba(65,105,225,0.25);
+}
+
+.action
+{
+    cursor: unset;
+    color: unset;
+    background-color: steelblue;
+    border: solid 1px #004B93;
+    border-radius: unset;
+    margin: unset;
+    padding: 2px 0.5rem;
+}
+
+.action:hover
+{
+    background-color: #5298D2;
+    text-decoration: unset;
+}
+
+.action:active
+{
+    background-color: #2169A5;
+}
+
+/* major layout */
+main
+{
+    min-height: 60vh;
+    margin: 1.5rem 4rem;
+}

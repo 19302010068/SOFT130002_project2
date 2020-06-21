@@ -1,0 +1,72 @@
+article
+{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: 80px 120px;
+}
+
+div
+{
+    display: inline-block;
+    grid-column: 1;
+    grid-row: 1/2;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+
+h3
+{
+    grid-column: 2;
+    grid-row: 1;
+    margin: auto 2rem;
+}
+
+h3>*
+{
+    display: inline-block;
+}
+
+h3>*:first-child
+{
+    margin-left: 1rem;
+}
+
+h3>*:nth-child(n+2)
+{
+    margin-left: 0.5rem;
+}
+
+p
+{
+    grid-column: 2;
+    grid-row: 2;
+    line-height: 1.2;
+    height: 3.6rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: auto 2rem;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+article
+{
+    border-bottom: solid 1px silver;
+}
+
+article:nth-of-type(odd)
+{
+    background-color: lightgray;
+}
+
+article:nth-of-type(even)
+{
+    background-color: aliceblue;
+}
+
+.removed
+{
+    text-decoration: line-through;
+}

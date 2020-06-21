@@ -1,0 +1,1 @@
+<footer class="index-footer"><a href="https://github.com/19302010068"><img src="/img/55232798.png" alt="19302010068"></a>19302010068@fudan.edu.cn</footer>

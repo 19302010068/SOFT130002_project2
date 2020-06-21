@@ -1,0 +1,26 @@
+[type="file"]
+{
+    display: none;
+}
+
+[type="text"]
+{
+    width: 300px;
+}
+
+select
+{
+    width: 308px;
+}
+
+textarea
+{
+    resize: both;
+    width: 627px;
+    height: 100px;
+}
+
+.description>span, label
+{
+    display: block;
+}

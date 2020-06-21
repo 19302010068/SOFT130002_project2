@@ -1,0 +1,1 @@
+<div class="browse-crop" v-for="photo in photos"><a :href="'details.php?id=' + photo.id"><img :src="'/img/medium/' + photo.path" :alt="photo.path" :title="photo.title" :style="photo.style"></a></div>

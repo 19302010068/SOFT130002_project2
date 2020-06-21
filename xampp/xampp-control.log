@@ -1,0 +1,554 @@
+21:21:20  [main] 	Initializing Control Panel
+21:21:20  [main] 	Windows Version:  Home  64-bit
+21:21:20  [main] 	XAMPP Version: 7.4.6
+21:21:20  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:21:20  [main] 	You are not running with administrator rights! This will work for
+21:21:20  [main] 	most application stuff but whenever you do something with services
+21:21:20  [main] 	there will be a security dialogue or things will break! So think 
+21:21:20  [main] 	about running this application with administrator rights!
+21:21:20  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+21:21:21  [main] 	Checking for prerequisites
+21:21:21  [main] 	All prerequisites found
+21:21:21  [main] 	Initializing Modules
+21:21:21  [main] 	Starting Check-Timer
+21:21:21  [main] 	Control Panel Ready
+22:07:53  [Apache] 	Status change detected: running
+22:13:19  [Apache] 	Status change detected: stopped
+22:13:19  [Apache] 	Error: Apache shutdown unexpectedly.
+22:13:19  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:13:19  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:13:19  [Apache] 	Press the Logs button to view error logs and check
+22:13:19  [Apache] 	the Windows Event Viewer for more clues
+22:13:19  [Apache] 	If you need more help, copy and post this
+22:13:19  [Apache] 	entire log window on the forums
+22:14:27  [Apache] 	Status change detected: running
+22:17:29  [Apache] 	Status change detected: stopped
+22:17:29  [Apache] 	Error: Apache shutdown unexpectedly.
+22:17:29  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:17:29  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:17:29  [Apache] 	Press the Logs button to view error logs and check
+22:17:29  [Apache] 	the Windows Event Viewer for more clues
+22:17:29  [Apache] 	If you need more help, copy and post this
+22:17:29  [Apache] 	entire log window on the forums
+19:11:10  [main] 	Deinitializing Modules
+19:11:10  [main] 	Deinitializing Control Panel
+
+22:07:50  [main] 	Initializing Control Panel
+22:07:50  [main] 	Windows Version:  Home  64-bit
+22:07:50  [main] 	XAMPP Version: 7.4.6
+22:07:50  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+22:07:50  [main] 	You are not running with administrator rights! This will work for
+22:07:50  [main] 	most application stuff but whenever you do something with services
+22:07:50  [main] 	there will be a security dialogue or things will break! So think 
+22:07:50  [main] 	about running this application with administrator rights!
+22:07:50  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+22:07:50  [main] 	Checking for prerequisites
+22:07:50  [main] 	All prerequisites found
+22:07:50  [main] 	Initializing Modules
+22:07:50  [main] 	Starting Check-Timer
+22:07:50  [main] 	Control Panel Ready
+22:07:53  [Apache] 	Attempting to start Apache app...
+22:07:53  [Apache] 	Status change detected: running
+22:13:19  [Apache] 	Attempting to stop Apache (PID: 7000)
+22:13:19  [Apache] 	Attempting to stop Apache (PID: 820)
+22:13:19  [Apache] 	Status change detected: stopped
+22:14:27  [Apache] 	Attempting to start Apache app...
+22:14:27  [Apache] 	Status change detected: running
+22:17:29  [Apache] 	Attempting to stop Apache (PID: 8040)
+22:17:29  [Apache] 	Attempting to stop Apache (PID: 4244)
+22:17:29  [Apache] 	Status change detected: stopped
+19:11:14  [main] 	Deinitializing Modules
+19:11:14  [main] 	Deinitializing Control Panel
+
+12:13:43  [main] 	Initializing Control Panel
+12:13:43  [main] 	Windows Version:  Home  64-bit
+12:13:43  [main] 	XAMPP Version: 7.4.6
+12:13:43  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:13:43  [main] 	You are not running with administrator rights! This will work for
+12:13:43  [main] 	most application stuff but whenever you do something with services
+12:13:43  [main] 	there will be a security dialogue or things will break! So think 
+12:13:43  [main] 	about running this application with administrator rights!
+12:13:43  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+12:13:43  [main] 	Checking for prerequisites
+12:13:43  [main] 	All prerequisites found
+12:13:43  [main] 	Initializing Modules
+12:13:43  [main] 	Starting Check-Timer
+12:13:43  [main] 	Control Panel Ready
+12:13:45  [Apache] 	Attempting to start Apache app...
+12:13:45  [Apache] 	Status change detected: running
+13:16:06  [Apache] 	Attempting to stop Apache (PID: 19284)
+13:16:06  [Apache] 	Attempting to stop Apache (PID: 16168)
+13:16:06  [Apache] 	Status change detected: stopped
+19:49:46  [Apache] 	Attempting to start Apache app...
+19:49:47  [Apache] 	Status change detected: running
+19:49:59  [Apache] 	Attempting to stop Apache (PID: 21812)
+19:49:59  [Apache] 	Attempting to stop Apache (PID: 18696)
+19:49:59  [Apache] 	Status change detected: stopped
+19:52:02  [Apache] 	Attempting to start Apache app...
+19:52:03  [Apache] 	Status change detected: running
+19:53:51  [Apache] 	Attempting to stop Apache (PID: 15692)
+19:53:51  [Apache] 	Attempting to stop Apache (PID: 19820)
+19:53:51  [Apache] 	Status change detected: stopped
+19:54:16  [main] 	Deinitializing Modules
+19:54:16  [main] 	Deinitializing Control Panel
+
+19:54:29  [main] 	Initializing Control Panel
+19:54:29  [main] 	Windows Version:  Home  64-bit
+19:54:29  [main] 	XAMPP Version: 7.4.6
+19:54:29  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:54:29  [main] 	You are not running with administrator rights! This will work for
+19:54:29  [main] 	most application stuff but whenever you do something with services
+19:54:29  [main] 	there will be a security dialogue or things will break! So think 
+19:54:29  [main] 	about running this application with administrator rights!
+19:54:29  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+19:54:29  [main] 	Checking for prerequisites
+19:54:29  [main] 	All prerequisites found
+19:54:29  [main] 	Initializing Modules
+19:54:29  [main] 	Starting Check-Timer
+19:54:29  [main] 	Control Panel Ready
+19:54:31  [Apache] 	Attempting to start Apache app...
+19:54:31  [Apache] 	Status change detected: running
+19:56:16  [Apache] 	Attempting to stop Apache (PID: 12036)
+19:56:16  [Apache] 	Attempting to stop Apache (PID: 20520)
+19:56:17  [Apache] 	Status change detected: stopped
+19:56:40  [Apache] 	Attempting to start Apache app...
+19:56:40  [Apache] 	Status change detected: running
+20:05:24  [Apache] 	Attempting to stop Apache (PID: 23324)
+20:05:24  [Apache] 	Attempting to stop Apache (PID: 10464)
+20:05:24  [Apache] 	Status change detected: stopped
+20:05:31  [main] 	Deinitializing Modules
+20:05:31  [main] 	Deinitializing Control Panel
+
+0:28:42  [main] 	Initializing Control Panel
+0:28:42  [main] 	Windows Version:  Home  64-bit
+0:28:42  [main] 	XAMPP Version: 7.4.6
+0:28:42  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+0:28:42  [main] 	You are not running with administrator rights! This will work for
+0:28:42  [main] 	most application stuff but whenever you do something with services
+0:28:42  [main] 	there will be a security dialogue or things will break! So think 
+0:28:42  [main] 	about running this application with administrator rights!
+0:28:42  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+0:28:42  [main] 	Checking for prerequisites
+0:28:42  [main] 	All prerequisites found
+0:28:42  [main] 	Initializing Modules
+0:28:42  [main] 	Starting Check-Timer
+0:28:42  [main] 	Control Panel Ready
+0:28:45  [Apache] 	Attempting to start Apache app...
+0:28:45  [Apache] 	Status change detected: running
+0:49:00  [Apache] 	Attempting to stop Apache (PID: 19476)
+0:49:00  [Apache] 	Attempting to stop Apache (PID: 11352)
+0:49:01  [Apache] 	Status change detected: stopped
+0:49:03  [main] 	Deinitializing Modules
+0:49:03  [main] 	Deinitializing Control Panel
+
+15:39:15  [main] 	Initializing Control Panel
+15:39:15  [main] 	Windows Version:  Home  64-bit
+15:39:15  [main] 	XAMPP Version: 7.4.6
+15:39:15  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+15:39:15  [main] 	You are not running with administrator rights! This will work for
+15:39:15  [main] 	most application stuff but whenever you do something with services
+15:39:15  [main] 	there will be a security dialogue or things will break! So think 
+15:39:15  [main] 	about running this application with administrator rights!
+15:39:15  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+15:39:15  [main] 	Checking for prerequisites
+15:39:15  [main] 	All prerequisites found
+15:39:15  [main] 	Initializing Modules
+15:39:15  [Apache] 	Problem detected!
+15:39:15  [Apache] 	Port 80 in use by "Unable to get info" with PID 22628!
+15:39:15  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:39:15  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:39:15  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:39:15  [mysql] 	XAMPP MySQL is already running on port 3306
+15:39:15  [main] 	Starting Check-Timer
+15:39:15  [main] 	Control Panel Ready
+15:39:19  [mysql] 	Attempting to stop MySQL app...
+15:39:20  [mysql] 	Status change detected: stopped
+15:39:33  [Apache] 	Problem detected!
+15:39:33  [Apache] 	Port 80 in use by "Unable to get info" with PID 22628!
+15:39:33  [Apache] 	Apache WILL NOT start without the configured ports free!
+15:39:33  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+15:39:33  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+15:39:33  [Apache] 	Attempting to start Apache app...
+15:39:33  [Apache] 	Status change detected: running
+15:39:38  [Apache] 	Attempting to stop Apache (PID: 18040)
+15:39:38  [Apache] 	Attempting to stop Apache (PID: 17728)
+15:39:38  [Apache] 	Status change detected: stopped
+20:26:04  [Apache] 	Status change detected: running
+20:29:41  [Apache] 	Status change detected: stopped
+20:38:18  [main] 	Deinitializing Modules
+20:38:18  [main] 	Deinitializing Control Panel
+
+21:53:09  [main] 	Initializing Control Panel
+21:53:09  [main] 	Windows Version:  Home  64-bit
+21:53:09  [main] 	XAMPP Version: 7.4.6
+21:53:09  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:53:09  [main] 	You are not running with administrator rights! This will work for
+21:53:09  [main] 	most application stuff but whenever you do something with services
+21:53:09  [main] 	there will be a security dialogue or things will break! So think 
+21:53:09  [main] 	about running this application with administrator rights!
+21:53:09  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+21:53:09  [main] 	Checking for prerequisites
+21:53:09  [main] 	All prerequisites found
+21:53:09  [main] 	Initializing Modules
+21:53:09  [main] 	Starting Check-Timer
+21:53:09  [main] 	Control Panel Ready
+21:53:12  [Apache] 	Attempting to start Apache app...
+21:53:13  [Apache] 	Status change detected: running
+21:53:13  [mysql] 	Attempting to start MySQL app...
+21:53:14  [mysql] 	Status change detected: running
+22:10:47  [main] 	Executing "f:\wxy\phpstormprojects\project2\xampp\mysql"
+22:16:20  [Apache] 	Attempting to stop Apache (PID: 5580)
+22:16:20  [Apache] 	Attempting to stop Apache (PID: 8828)
+22:16:20  [Apache] 	Status change detected: stopped
+22:16:21  [mysql] 	Attempting to stop MySQL app...
+22:16:21  [mysql] 	Status change detected: stopped
+22:20:06  [Apache] 	Attempting to start Apache app...
+22:20:06  [Apache] 	Status change detected: running
+22:20:07  [mysql] 	Attempting to start MySQL app...
+22:20:07  [mysql] 	Status change detected: running
+22:22:46  [main] 	Executing "f:\wxy\phpstormprojects\project2\xampp\phpMyAdmin"
+17:36:29  [Apache] 	Attempting to stop Apache (PID: 8364)
+17:36:29  [Apache] 	Attempting to stop Apache (PID: 6096)
+17:36:29  [Apache] 	Status change detected: stopped
+17:36:29  [mysql] 	Attempting to stop MySQL app...
+17:36:30  [mysql] 	Status change detected: stopped
+17:36:32  [main] 	Deinitializing Modules
+17:36:32  [main] 	Deinitializing Control Panel
+
+21:29:54  [main] 	Initializing Control Panel
+21:29:54  [main] 	Windows Version:  Home  64-bit
+21:29:54  [main] 	XAMPP Version: 7.4.6
+21:29:54  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:29:54  [main] 	You are not running with administrator rights! This will work for
+21:29:54  [main] 	most application stuff but whenever you do something with services
+21:29:54  [main] 	there will be a security dialogue or things will break! So think 
+21:29:54  [main] 	about running this application with administrator rights!
+21:29:54  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+21:29:54  [main] 	Checking for prerequisites
+21:29:54  [main] 	All prerequisites found
+21:29:54  [main] 	Initializing Modules
+21:29:54  [main] 	Starting Check-Timer
+21:29:54  [main] 	Control Panel Ready
+21:29:56  [Apache] 	Attempting to start Apache app...
+21:29:57  [Apache] 	Status change detected: running
+21:29:57  [mysql] 	Attempting to start MySQL app...
+21:29:57  [mysql] 	Status change detected: running
+21:36:48  [mysql] 	Attempting to stop MySQL app...
+21:36:48  [mysql] 	Status change detected: stopped
+21:36:50  [mysql] 	Attempting to start MySQL app...
+21:36:50  [mysql] 	Status change detected: running
+21:39:55  [mysql] 	Attempting to stop MySQL app...
+21:39:55  [mysql] 	Status change detected: stopped
+21:40:01  [mysql] 	Attempting to start MySQL app...
+21:40:01  [mysql] 	Status change detected: running
+21:41:26  [Apache] 	Attempting to stop Apache (PID: 8264)
+21:41:26  [Apache] 	Attempting to stop Apache (PID: 5312)
+21:41:26  [Apache] 	Status change detected: stopped
+21:41:27  [mysql] 	Attempting to stop MySQL app...
+21:41:28  [mysql] 	Status change detected: stopped
+21:41:29  [main] 	Deinitializing Modules
+21:41:29  [main] 	Deinitializing Control Panel
+
+21:41:57  [main] 	Initializing Control Panel
+21:41:57  [main] 	Windows Version:  Home  64-bit
+21:41:57  [main] 	XAMPP Version: 7.4.6
+21:41:57  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:41:57  [main] 	You are not running with administrator rights! This will work for
+21:41:57  [main] 	most application stuff but whenever you do something with services
+21:41:57  [main] 	there will be a security dialogue or things will break! So think 
+21:41:57  [main] 	about running this application with administrator rights!
+21:41:57  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+21:41:57  [main] 	Checking for prerequisites
+21:41:57  [main] 	All prerequisites found
+21:41:57  [main] 	Initializing Modules
+21:41:57  [main] 	Starting Check-Timer
+21:41:57  [main] 	Control Panel Ready
+21:42:06  [Apache] 	Attempting to start Apache app...
+21:42:07  [Apache] 	Status change detected: running
+21:42:07  [mysql] 	Attempting to start MySQL app...
+21:42:08  [mysql] 	Status change detected: running
+2:34:14  [Apache] 	Attempting to stop Apache (PID: 5852)
+2:34:14  [Apache] 	Attempting to stop Apache (PID: 9432)
+2:34:14  [Apache] 	Status change detected: stopped
+2:34:16  [Apache] 	Attempting to start Apache app...
+2:34:16  [Apache] 	Status change detected: running
+2:34:18  [mysql] 	Attempting to stop MySQL app...
+2:34:18  [mysql] 	Status change detected: stopped
+2:34:19  [Apache] 	Attempting to stop Apache (PID: 8268)
+2:34:19  [Apache] 	Attempting to stop Apache (PID: 6956)
+2:34:19  [Apache] 	Status change detected: stopped
+16:17:22  [main] 	Deinitializing Modules
+16:17:22  [main] 	Deinitializing Control Panel
+
+12:21:18  [main] 	Initializing Control Panel
+12:21:18  [main] 	Windows Version:  Home  64-bit
+12:21:18  [main] 	XAMPP Version: 7.4.6
+12:21:18  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+12:21:18  [main] 	You are not running with administrator rights! This will work for
+12:21:18  [main] 	most application stuff but whenever you do something with services
+12:21:18  [main] 	there will be a security dialogue or things will break! So think 
+12:21:18  [main] 	about running this application with administrator rights!
+12:21:18  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+12:21:18  [main] 	Checking for prerequisites
+12:21:20  [main] 	All prerequisites found
+12:21:20  [main] 	Initializing Modules
+12:21:20  [main] 	Starting Check-Timer
+12:21:20  [main] 	Control Panel Ready
+12:21:43  [Apache] 	Attempting to start Apache app...
+12:21:44  [Apache] 	Status change detected: running
+12:21:47  [mysql] 	Attempting to start MySQL app...
+12:21:47  [mysql] 	Status change detected: running
+16:31:21  [mysql] 	Attempting to stop MySQL app...
+16:31:21  [mysql] 	Status change detected: stopped
+16:31:22  [Apache] 	Attempting to stop Apache (PID: 4768)
+16:31:22  [Apache] 	Attempting to stop Apache (PID: 6784)
+16:31:22  [Apache] 	Status change detected: stopped
+16:31:26  [main] 	Deinitializing Modules
+16:31:26  [main] 	Deinitializing Control Panel
+
+19:28:08  [main] 	Initializing Control Panel
+19:28:08  [main] 	Windows Version:  Home  64-bit
+19:28:08  [main] 	XAMPP Version: 7.4.6
+19:28:08  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:28:08  [main] 	You are not running with administrator rights! This will work for
+19:28:08  [main] 	most application stuff but whenever you do something with services
+19:28:08  [main] 	there will be a security dialogue or things will break! So think 
+19:28:08  [main] 	about running this application with administrator rights!
+19:28:08  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+19:28:08  [main] 	Checking for prerequisites
+19:28:09  [main] 	All prerequisites found
+19:28:09  [main] 	Initializing Modules
+19:28:09  [main] 	Starting Check-Timer
+19:28:09  [main] 	Control Panel Ready
+19:28:12  [Apache] 	Attempting to start Apache app...
+19:28:12  [Apache] 	Status change detected: running
+19:28:14  [mysql] 	Attempting to start MySQL app...
+19:28:14  [mysql] 	Status change detected: running
+0:42:36  [mysql] 	Attempting to stop MySQL app...
+0:42:36  [mysql] 	Status change detected: stopped
+0:42:37  [Apache] 	Attempting to stop Apache (PID: 10476)
+0:42:37  [Apache] 	Attempting to stop Apache (PID: 6044)
+0:42:37  [Apache] 	Status change detected: stopped
+0:42:39  [main] 	Deinitializing Modules
+0:42:39  [main] 	Deinitializing Control Panel
+
+1:25:40  [main] 	Initializing Control Panel
+1:25:40  [main] 	Windows Version:  Home  64-bit
+1:25:40  [main] 	XAMPP Version: 7.4.6
+1:25:40  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+1:25:40  [main] 	You are not running with administrator rights! This will work for
+1:25:40  [main] 	most application stuff but whenever you do something with services
+1:25:40  [main] 	there will be a security dialogue or things will break! So think 
+1:25:40  [main] 	about running this application with administrator rights!
+1:25:40  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+1:25:40  [main] 	Checking for prerequisites
+1:25:40  [main] 	All prerequisites found
+1:25:40  [main] 	Initializing Modules
+1:25:40  [main] 	Starting Check-Timer
+1:25:40  [main] 	Control Panel Ready
+1:25:42  [Apache] 	Attempting to start Apache app...
+1:25:42  [Apache] 	Status change detected: running
+1:25:43  [mysql] 	Attempting to start MySQL app...
+1:25:44  [mysql] 	Status change detected: running
+2:24:41  [mysql] 	Attempting to stop MySQL app...
+2:24:41  [mysql] 	Status change detected: stopped
+2:24:42  [Apache] 	Attempting to stop Apache (PID: 6792)
+2:24:42  [Apache] 	Attempting to stop Apache (PID: 11716)
+2:24:42  [Apache] 	Status change detected: stopped
+2:24:43  [main] 	Deinitializing Modules
+2:24:43  [main] 	Deinitializing Control Panel
+
+10:42:27  [main] 	Initializing Control Panel
+10:42:27  [main] 	Windows Version:  Home  64-bit
+10:42:27  [main] 	XAMPP Version: 7.4.6
+10:42:27  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+10:42:27  [main] 	You are not running with administrator rights! This will work for
+10:42:27  [main] 	most application stuff but whenever you do something with services
+10:42:27  [main] 	there will be a security dialogue or things will break! So think 
+10:42:27  [main] 	about running this application with administrator rights!
+10:42:27  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+10:42:27  [main] 	Checking for prerequisites
+10:42:27  [main] 	All prerequisites found
+10:42:27  [main] 	Initializing Modules
+10:42:27  [main] 	Starting Check-Timer
+10:42:27  [main] 	Control Panel Ready
+10:42:29  [mysql] 	Attempting to start MySQL app...
+10:42:29  [mysql] 	Status change detected: running
+10:42:33  [mysql] 	Attempting to stop MySQL app...
+10:42:34  [mysql] 	Status change detected: stopped
+10:42:36  [Apache] 	Attempting to start Apache app...
+10:42:36  [Apache] 	Status change detected: running
+10:42:39  [mysql] 	Attempting to start MySQL app...
+10:42:39  [mysql] 	Status change detected: running
+16:07:16  [mysql] 	Attempting to stop MySQL app...
+16:07:16  [mysql] 	Status change detected: stopped
+16:07:16  [Apache] 	Attempting to stop Apache (PID: 1864)
+16:07:16  [Apache] 	Attempting to stop Apache (PID: 7544)
+16:07:16  [Apache] 	Status change detected: stopped
+16:07:17  [main] 	Deinitializing Modules
+16:07:17  [main] 	Deinitializing Control Panel
+
+19:33:13  [main] 	Initializing Control Panel
+19:33:13  [main] 	Windows Version:  Home  64-bit
+19:33:13  [main] 	XAMPP Version: 7.4.6
+19:33:13  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+19:33:13  [main] 	You are not running with administrator rights! This will work for
+19:33:13  [main] 	most application stuff but whenever you do something with services
+19:33:13  [main] 	there will be a security dialogue or things will break! So think 
+19:33:13  [main] 	about running this application with administrator rights!
+19:33:13  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+19:33:13  [main] 	Checking for prerequisites
+19:33:15  [main] 	All prerequisites found
+19:33:15  [main] 	Initializing Modules
+19:33:15  [main] 	Starting Check-Timer
+19:33:15  [main] 	Control Panel Ready
+19:33:17  [Apache] 	Attempting to start Apache app...
+19:33:17  [Apache] 	Status change detected: running
+19:33:18  [mysql] 	Attempting to start MySQL app...
+19:33:22  [mysql] 	Status change detected: running
+20:22:24  [mysql] 	Attempting to stop MySQL app...
+20:22:24  [mysql] 	Status change detected: stopped
+20:22:25  [Apache] 	Attempting to stop Apache (PID: 11656)
+20:22:25  [Apache] 	Attempting to stop Apache (PID: 9428)
+20:22:25  [Apache] 	Status change detected: stopped
+20:22:28  [main] 	Deinitializing Modules
+20:22:28  [main] 	Deinitializing Control Panel
+
+23:15:41  [main] 	Initializing Control Panel
+23:15:41  [main] 	Windows Version:  Home  64-bit
+23:15:41  [main] 	XAMPP Version: 7.4.6
+23:15:41  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:15:41  [main] 	You are not running with administrator rights! This will work for
+23:15:41  [main] 	most application stuff but whenever you do something with services
+23:15:41  [main] 	there will be a security dialogue or things will break! So think 
+23:15:41  [main] 	about running this application with administrator rights!
+23:15:41  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+23:15:41  [main] 	Checking for prerequisites
+23:15:41  [main] 	All prerequisites found
+23:15:41  [main] 	Initializing Modules
+23:15:41  [main] 	Starting Check-Timer
+23:15:41  [main] 	Control Panel Ready
+23:15:42  [Apache] 	Attempting to start Apache app...
+23:15:43  [Apache] 	Status change detected: running
+23:15:48  [mysql] 	Attempting to start MySQL app...
+23:15:49  [mysql] 	Status change detected: running
+23:28:32  [mysql] 	Attempting to stop MySQL app...
+23:28:32  [mysql] 	Status change detected: stopped
+23:28:33  [Apache] 	Attempting to stop Apache (PID: 11312)
+23:28:33  [Apache] 	Attempting to stop Apache (PID: 9808)
+23:28:34  [Apache] 	Status change detected: stopped
+0:37:54  [main] 	Deinitializing Modules
+0:37:54  [main] 	Deinitializing Control Panel
+
+21:56:02  [main] 	Initializing Control Panel
+21:56:02  [main] 	Windows Version:  Home  64-bit
+21:56:02  [main] 	XAMPP Version: 7.4.6
+21:56:02  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+21:56:02  [main] 	You are not running with administrator rights! This will work for
+21:56:02  [main] 	most application stuff but whenever you do something with services
+21:56:02  [main] 	there will be a security dialogue or things will break! So think 
+21:56:02  [main] 	about running this application with administrator rights!
+21:56:02  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+21:56:02  [main] 	Checking for prerequisites
+21:56:02  [main] 	All prerequisites found
+21:56:02  [main] 	Initializing Modules
+21:56:02  [main] 	Starting Check-Timer
+21:56:02  [main] 	Control Panel Ready
+21:56:04  [Apache] 	Attempting to start Apache app...
+21:56:04  [Apache] 	Status change detected: running
+21:56:05  [mysql] 	Attempting to start MySQL app...
+21:56:05  [mysql] 	Status change detected: running
+10:34:45  [mysql] 	Attempting to stop MySQL app...
+10:34:45  [mysql] 	Status change detected: stopped
+10:34:47  [Apache] 	Attempting to stop Apache (PID: 4528)
+10:34:47  [Apache] 	Attempting to stop Apache (PID: 1052)
+10:34:48  [Apache] 	Status change detected: stopped
+23:15:43  [Apache] 	Status change detected: running
+23:15:49  [mysql] 	Status change detected: running
+23:28:32  [mysql] 	Status change detected: stopped
+23:28:34  [Apache] 	Status change detected: stopped
+0:37:57  [main] 	Deinitializing Modules
+0:37:57  [main] 	Deinitializing Control Panel
+
+23:44:09  [main] 	Initializing Control Panel
+23:44:09  [main] 	Windows Version:  Home  64-bit
+23:44:09  [main] 	XAMPP Version: 7.4.6
+23:44:09  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+23:44:09  [main] 	You are not running with administrator rights! This will work for
+23:44:09  [main] 	most application stuff but whenever you do something with services
+23:44:09  [main] 	there will be a security dialogue or things will break! So think 
+23:44:09  [main] 	about running this application with administrator rights!
+23:44:09  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+23:44:09  [main] 	Checking for prerequisites
+23:44:10  [main] 	All prerequisites found
+23:44:10  [main] 	Initializing Modules
+23:44:10  [main] 	Starting Check-Timer
+23:44:10  [main] 	Control Panel Ready
+23:44:17  [Apache] 	Attempting to start Apache app...
+23:44:17  [Apache] 	Status change detected: running
+23:44:22  [mysql] 	Attempting to start MySQL app...
+23:44:22  [mysql] 	Status change detected: running
+12:25:51  [mysql] 	Attempting to stop MySQL app...
+12:25:51  [mysql] 	Status change detected: stopped
+12:25:55  [Apache] 	Attempting to stop Apache (PID: 1180)
+12:25:55  [Apache] 	Attempting to stop Apache (PID: 5704)
+12:25:55  [Apache] 	Status change detected: stopped
+12:25:56  [main] 	Deinitializing Modules
+12:25:56  [main] 	Deinitializing Control Panel
+
+11:37:52  [main] 	Initializing Control Panel
+11:37:52  [main] 	Windows Version:  Home  64-bit
+11:37:52  [main] 	XAMPP Version: 7.4.6
+11:37:52  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+11:37:52  [main] 	You are not running with administrator rights! This will work for
+11:37:52  [main] 	most application stuff but whenever you do something with services
+11:37:52  [main] 	there will be a security dialogue or things will break! So think 
+11:37:52  [main] 	about running this application with administrator rights!
+11:37:52  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+11:37:52  [main] 	Checking for prerequisites
+11:37:52  [main] 	All prerequisites found
+11:37:52  [main] 	Initializing Modules
+11:37:52  [main] 	Starting Check-Timer
+11:37:52  [main] 	Control Panel Ready
+11:37:54  [Apache] 	Attempting to start Apache app...
+11:37:54  [Apache] 	Status change detected: running
+11:37:56  [mysql] 	Attempting to start MySQL app...
+11:37:56  [mysql] 	Status change detected: running
+12:30:52  [mysql] 	Attempting to stop MySQL app...
+12:30:52  [mysql] 	Status change detected: stopped
+12:30:53  [Apache] 	Attempting to stop Apache (PID: 9144)
+12:30:53  [Apache] 	Attempting to stop Apache (PID: 8912)
+12:30:53  [Apache] 	Status change detected: stopped
+12:30:58  [main] 	Deinitializing Modules
+12:30:58  [main] 	Deinitializing Control Panel
+
+14:26:43  [main] 	Initializing Control Panel
+14:26:43  [main] 	Windows Version:  Home  64-bit
+14:26:43  [main] 	XAMPP Version: 7.4.6
+14:26:43  [main] 	Control Panel Version: 3.2.4  [ Compiled: Jun 5th 2019 ]
+14:26:43  [main] 	You are not running with administrator rights! This will work for
+14:26:43  [main] 	most application stuff but whenever you do something with services
+14:26:43  [main] 	there will be a security dialogue or things will break! So think 
+14:26:43  [main] 	about running this application with administrator rights!
+14:26:43  [main] 	XAMPP Installation Directory: "f:\wxy\phpstormprojects\project2\xampp\"
+14:26:43  [main] 	Checking for prerequisites
+14:26:44  [main] 	All prerequisites found
+14:26:44  [main] 	Initializing Modules
+14:26:44  [main] 	Starting Check-Timer
+14:26:44  [main] 	Control Panel Ready
+14:26:45  [Apache] 	Attempting to start Apache app...
+14:26:45  [Apache] 	Status change detected: running
+14:26:49  [mysql] 	Attempting to start MySQL app...
+14:26:50  [mysql] 	Status change detected: running
+9:33:37  [mysql] 	Attempting to stop MySQL app...
+9:33:37  [mysql] 	Status change detected: stopped
+9:33:40  [Apache] 	Attempting to stop Apache (PID: 6672)
+9:33:40  [Apache] 	Attempting to stop Apache (PID: 720)
+9:33:40  [Apache] 	Status change detected: stopped
+11:37:54  [Apache] 	Status change detected: running
+11:37:56  [mysql] 	Status change detected: running
+12:30:52  [mysql] 	Status change detected: stopped
+12:30:53  [Apache] 	Status change detected: stopped
+12:31:00  [main] 	Deinitializing Modules
+12:31:00  [main] 	Deinitializing Control Panel
+

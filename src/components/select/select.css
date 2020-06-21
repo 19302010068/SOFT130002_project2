@@ -1,0 +1,9 @@
+[name="country"] optgroup
+{
+    background-color: gray;
+}
+
+[name="country"] option
+{
+    background-color: white;
+}
